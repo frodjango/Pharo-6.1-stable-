@@ -1,0 +1,31 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Alt-Browser-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"AltAnnouncer",
+		"Categories",
+		"Debug",
+		"RecentPackages",
+		"Root",
+		"Temporary"
+	],
+	"instvars" : [
+		"source",
+		"root",
+		"history",
+		"window",
+		"treeMorph",
+		"textMorph",
+		"rbEnvironment",
+		"finder",
+		"finderUI",
+		"toolbar",
+		"commentMorph",
+		"selection"
+	],
+	"name" : "AltBrowser",
+	"type" : "normal"
+}

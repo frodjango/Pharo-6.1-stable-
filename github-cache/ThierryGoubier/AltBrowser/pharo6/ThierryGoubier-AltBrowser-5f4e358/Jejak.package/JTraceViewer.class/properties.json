@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Jejak-GUI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"treeMorph",
+		"records",
+		"window",
+		"source",
+		"tree",
+		"textMorph",
+		"removeProbesButton"
+	],
+	"name" : "JTraceViewer",
+	"type" : "normal"
+}

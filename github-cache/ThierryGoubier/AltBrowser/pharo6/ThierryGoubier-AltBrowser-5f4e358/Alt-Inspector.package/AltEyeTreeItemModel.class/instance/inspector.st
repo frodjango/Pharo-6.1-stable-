@@ -1,0 +1,3 @@
+accessing
+inspector
+	^ item inspector

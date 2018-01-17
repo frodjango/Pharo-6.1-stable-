@@ -1,0 +1,3 @@
+accessing
+keystroke
+	^ self openingChar

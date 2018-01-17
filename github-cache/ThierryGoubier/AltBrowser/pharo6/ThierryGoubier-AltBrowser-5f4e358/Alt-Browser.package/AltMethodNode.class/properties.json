@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "AltAbstractNode",
+	"category" : "Alt-Browser-Nodes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"ProtectedMethods"
+	],
+	"instvars" : [ ],
+	"name" : "AltMethodNode",
+	"type" : "normal"
+}

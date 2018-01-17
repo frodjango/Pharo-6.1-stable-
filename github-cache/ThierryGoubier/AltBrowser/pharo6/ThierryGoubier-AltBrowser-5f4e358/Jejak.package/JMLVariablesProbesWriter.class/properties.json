@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "JMLAbstractProbesWriter",
+	"category" : "Jejak-MetaLinks",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JMLVariablesProbesWriter",
+	"type" : "normal"
+}

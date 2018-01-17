@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Model",
+	"category" : "Alt-Browser-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"browser",
+		"aboutToStyle",
+		"currentCompiledMethod",
+		"contentsSymbol",
+		"contents"
+	],
+	"name" : "AltBrowserCodeModel",
+	"type" : "normal"
+}

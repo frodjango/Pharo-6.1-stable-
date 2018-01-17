@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "AltRBCommand",
+	"category" : "Alt-Browser-Commands-Refactoring",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AltRBClassRenameCommand",
+	"type" : "normal"
+}

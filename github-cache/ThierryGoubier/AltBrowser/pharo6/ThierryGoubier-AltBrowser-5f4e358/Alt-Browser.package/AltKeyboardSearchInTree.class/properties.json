@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Alt-Browser-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"requestor",
+		"baseIndex"
+	],
+	"name" : "AltKeyboardSearchInTree",
+	"type" : "normal"
+}

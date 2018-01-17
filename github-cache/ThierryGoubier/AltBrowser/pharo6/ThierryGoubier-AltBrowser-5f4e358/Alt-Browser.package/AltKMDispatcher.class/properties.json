@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "KMDispatcher",
+	"category" : "Alt-Browser-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AltKMDispatcher",
+	"type" : "normal"
+}

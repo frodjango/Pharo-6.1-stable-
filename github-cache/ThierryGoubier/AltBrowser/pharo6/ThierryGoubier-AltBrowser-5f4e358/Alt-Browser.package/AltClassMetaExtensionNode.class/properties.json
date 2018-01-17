@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "AltClassExtensionNode",
+	"category" : "Alt-Browser-Nodes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AltClassMetaExtensionNode",
+	"type" : "normal"
+}

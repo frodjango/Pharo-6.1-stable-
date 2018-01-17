@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "AltAstNodeCommand",
+	"category" : "Alt-Browser-Commands-AST",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AltBrowseTextCommand",
+	"type" : "normal"
+}

@@ -1,0 +1,1 @@
+For a method category. No need for an -- all ---, the tree list allow for opening everything if needed. The 'as yet unclassified' method category (protocol) is managed on the fly (and exist in the system) 

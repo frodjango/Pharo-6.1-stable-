@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "AltEncloseTextCommand",
+	"category" : "Alt-Browser-Commands-Text",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AltSquareBracketsTextCommand",
+	"type" : "normal"
+}

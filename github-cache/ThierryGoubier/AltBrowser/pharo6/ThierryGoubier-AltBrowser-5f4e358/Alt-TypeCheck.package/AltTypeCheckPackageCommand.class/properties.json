@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "AltTypeCheckClassCommand",
+	"category" : "Alt-TypeCheck",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AltTypeCheckPackageCommand",
+	"type" : "normal"
+}

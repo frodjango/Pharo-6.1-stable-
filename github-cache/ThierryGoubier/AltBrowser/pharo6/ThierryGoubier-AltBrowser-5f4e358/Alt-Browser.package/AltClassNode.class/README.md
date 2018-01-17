@@ -1,0 +1,1 @@
+An AltClassNode represent a class. The meta side is handled by AltClassMetaNode.

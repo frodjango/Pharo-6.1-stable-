@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Announcement",
+	"category" : "Alt-Browser-Watchpoints",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"watchpoint"
+	],
+	"name" : "AltWatchpointUninstalled",
+	"type" : "normal"
+}

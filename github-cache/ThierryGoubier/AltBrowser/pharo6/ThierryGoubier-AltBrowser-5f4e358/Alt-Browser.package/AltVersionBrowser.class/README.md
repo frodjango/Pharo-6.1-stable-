@@ -1,0 +1,1 @@
+A subclass of VersionsBrowser to deal with method definitions instead of change records. It allows one to scan a git repository for all versions of a method, even if it misses renaming.

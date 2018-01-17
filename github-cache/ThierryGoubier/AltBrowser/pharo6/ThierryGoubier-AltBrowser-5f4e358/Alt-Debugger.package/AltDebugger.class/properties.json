@@ -1,0 +1,32 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Alt-Debugger",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"AlwaysOpenFullDebugger",
+		"DoItFilterEnabled",
+		"ErrorRecursion",
+		"FilterCommonMessageSends",
+		"FilterDictionary",
+		"KCFilterEnabled",
+		"LinkSelectorFilterEnabled",
+		"LogDebuggerStackToFile",
+		"NilSelectorsFilterEnabled"
+	],
+	"instvars" : [
+		"textMorph",
+		"inspector",
+		"session",
+		"stackMorph",
+		"source",
+		"stack",
+		"window",
+		"context",
+		"extensions",
+		"toolbar"
+	],
+	"name" : "AltDebugger",
+	"type" : "normal"
+}

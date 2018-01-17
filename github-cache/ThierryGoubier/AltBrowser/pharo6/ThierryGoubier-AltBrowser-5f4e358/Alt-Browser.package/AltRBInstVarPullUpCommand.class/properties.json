@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "AltRBAstNodeCommand",
+	"category" : "Alt-Browser-Commands-Refactoring",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AltRBInstVarPullUpCommand",
+	"type" : "normal"
+}

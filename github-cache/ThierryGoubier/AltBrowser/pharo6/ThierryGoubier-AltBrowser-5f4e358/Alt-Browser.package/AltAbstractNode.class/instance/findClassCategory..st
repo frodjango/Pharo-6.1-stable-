@@ -1,0 +1,3 @@
+querying
+findClassCategory: aCat
+	^ nil
