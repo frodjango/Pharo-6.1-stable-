@@ -1,0 +1,15 @@
+{
+	"classtraitcomposition" : "TAuthor classTrait + TAuthor2 classTrait",
+	"classvars" : [ ],
+	"instvars" : [
+		"cells"
+	],
+	"name" : "LOGame",
+	"commentStamp" : "",
+	"super" : "BorderedMorph",
+	"traitcomposition" : "TAuthor + (TAuthor2 - {#author})",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "Francois-Package"
+}

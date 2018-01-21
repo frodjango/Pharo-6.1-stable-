@@ -1,11 +1,13 @@
 {
 	"commentStamp" : "<historical>",
-	"super" : "Object",
+	"super" : "SimpleSwitchMorph",
 	"category" : "Francois-Package",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
-	"name" : "Francois",
+	"instvars" : [
+		"mouseAction"
+	],
+	"name" : "LOCell",
 	"type" : "normal"
 }

@@ -1,11 +1,11 @@
 {
-	"commentStamp" : "<historical>",
-	"super" : "Object",
+	"commentStamp" : "",
+	"super" : "Dog",
 	"category" : "Francois-Package",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "Francois",
+	"name" : "Hyena",
 	"type" : "normal"
 }

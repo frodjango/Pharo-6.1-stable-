@@ -1,11 +1,13 @@
 {
-	"commentStamp" : "<historical>",
+	"commentStamp" : "",
 	"super" : "Object",
 	"category" : "Francois-Package",
-	"classinstvars" : [ ],
+	"classinstvars" : [
+		"count"
+	],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "Francois",
+	"name" : "Dog",
 	"type" : "normal"
 }
